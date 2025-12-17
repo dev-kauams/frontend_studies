@@ -123,6 +123,35 @@ Recursos organizados por setor para máxima eficiência no desenvolvimento.
 
 ---
 
+## `>_ PROTOCOL: COMMIT SEMANTICS`
+
+Padrão de versionamento rigoroso adotado para manter a integridade da timeline do projeto.
+
+### 📟 Syntax Structure
+```bash
+git commit -m "type(scope): short description"
+
+```
+
+| TAG | SYSTEM ACTION | DESCRIPTION |
+| --- | --- | --- |
+| `feat` | ✨ **New Feature** | Adição de nova funcionalidade ao sistema. |
+| `fix` | 🐛 **Bug Fix** | Correção de falhas ou erros de execução. |
+| `docs` | 📚 **Documentation** | Alterações em arquivos de documentação (README, etc). |
+| `style` | 💎 **Formatting** | Formatação de código (espaços, vírgulas) sem alterar lógica. |
+| `refactor` | ♻️ **Refactoring** | Otimização de código sem alterar a funcionalidade final. |
+| `test` | 🧪 **Testing** | Adição ou correção de testes unitários/e2e. |
+| `chore` | 🔧 **Maintenance** | Atualizações de build, configs ou ferramentas (ex: eslint). |
+
+> **Exemplo de Log:**
+> * `feat(login): add google authentication support`
+> * `fix(navbar): resolve responsive layout on mobile`
+> * `docs(readme): upgrade visual identity to god mode`
+> 
+> 
+
+---
+
 ## `>_ ANALYTICS: DATA STREAM`
 
 <div align="center">
