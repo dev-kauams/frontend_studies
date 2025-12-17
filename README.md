@@ -126,10 +126,13 @@ Recursos organizados por setor para máxima eficiência no desenvolvimento.
 ## `>_ ANALYTICS: DATA STREAM`
 
 <div align="center">
-<a href="https://github.com/dev-kauams">
-<img height="160" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddev-kauams%26show_icons%3Dtrue%26theme%3Dtokyonight%26bg_color%3D000000%26title_color%3D8A2BE2%26icon_color%3D8A2BE2" alt="Github Stats" />
-<img height="160" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddev-kauams%26layout%3Dcompact%26theme%3Dtokyonight%26bg_color%3D000000%26title_color%3D8A2BE2" alt="Top Langs" />
-</a>
+  <a href="https://github.com/dev-kauams">
+  
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dev-kauams&show_icons=true&theme=tokyonight&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2" alt="Github Stats" />
+  
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-kauams&layout=compact&theme=tokyonight&bg_color=000000&title_color=8A2BE2" alt="Top Langs" />
+  
+  </a>
 </div>
 
 ---
