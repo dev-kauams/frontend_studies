@@ -1,0 +1,24 @@
+.textNome{
+    color: #b273e5;
+}
+
+.textIdade{
+    color: #16171d;
+    font-weight: bold;
+    padding: 1rem;
+    background-color: #b273e5;
+    border-radius: 10px;
+}
+
+.textProfissao{
+    color: #16171d;
+    font-weight: bold;
+    padding: 0.8rem;
+    background-color: #b273e5;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.foto{
+    border-radius: 10px;
+}
